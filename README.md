@@ -18,4 +18,3 @@ Repositório dedicado ao estudo do livro **Java: Como Programar**, utilizando o 
   <img src="./assets/capa.jpg" alt="Capa do Livro Java Como Programar" width="300">
 </p>
 
-Repositório dedicado ao estudo do livro...
