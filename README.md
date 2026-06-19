@@ -9,7 +9,7 @@ Repositório dedicado ao estudo do livro **Java: Como Programar**, utilizando o 
 
 ## 🛠️ Ferramentas Utilizadas
 - **JDK:** 17 ou superior
-- **IDE:** Visual Studio Code
+- **IDE:** Eclipse
 - **Extensões:** Extension Pack for Java (Microsoft)
 
 # ☕ Estudos de Java - Deitel & Deitel
